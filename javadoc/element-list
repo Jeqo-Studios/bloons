@@ -7,7 +7,7 @@ net.jeqo.bloons.balloon.multipart.nodes
 net.jeqo.bloons.balloon.single
 net.jeqo.bloons.commands
 net.jeqo.bloons.commands.manager
-net.jeqo.bloons.commands.manager.enums
+net.jeqo.bloons.commands.manager.types
 net.jeqo.bloons.commands.utils
 net.jeqo.bloons.configuration
 net.jeqo.bloons.events
